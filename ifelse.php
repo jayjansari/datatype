@@ -5,7 +5,7 @@ if($age<20){
     echo 'licence bane';
 }
 else{
-    echo 'no bane';
+    echo 'jay';
 }
 
 $x=8;
